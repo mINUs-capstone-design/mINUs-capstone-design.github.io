@@ -4,6 +4,8 @@ sidebar-category:
     url: /meeting
   - title: "개발일지"
     url: /devlog
+  - title: "주간 다이어리"
+    url: /weekilyDiary
 #main:
 #  - title: "회의록"
 #    url: /meeting
