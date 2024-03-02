@@ -1,5 +1,5 @@
 --- 
-title: "meeting"
+title: "회의록"
 layout: archive
 permalink: /meeting
 ---
