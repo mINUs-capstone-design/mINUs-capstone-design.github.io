@@ -1,6 +1,6 @@
 ---
 title: "devlog"
-permalink: /devlog/
+permalink: /devlog
 toc: true
 toc_sticky: true
 ---
