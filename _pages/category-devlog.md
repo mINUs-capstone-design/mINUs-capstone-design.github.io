@@ -2,6 +2,8 @@
 title: "개발일지"
 layout: archive
 permalink: /devlog
+sidebar_main: true
+author_profile: true
 ---
 
 {% assign posts = site.categories.devlog %}
