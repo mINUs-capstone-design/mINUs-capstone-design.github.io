@@ -4,8 +4,6 @@ main:
     url: /meeting/
   - title: "개발일지"
     url: /devlog/
-  - title: "github"
-    url: https://github.com/mINUs-capstone-design/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
