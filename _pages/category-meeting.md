@@ -2,6 +2,8 @@
 title: "회의록"
 layout: archive
 permalink: /meeting
+author_profile: true
+sidebar_main: true
 ---
 
 {% assign posts = site.categories.meeting %}
