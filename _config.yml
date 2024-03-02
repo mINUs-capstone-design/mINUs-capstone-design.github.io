@@ -107,7 +107,7 @@ author:
   name             : "mINUs 개발 블로그"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "팀 mINUs의 개발일지 및 회의록 작성을 위한 블로그입니다."
-  location         : "인천대학교 정보기술대학 임베디드시스템공학과"
+  location         : "인천대학교"
   email            :
   links:
     - label: "Email"
