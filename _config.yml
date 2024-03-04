@@ -151,6 +151,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+future: true
 
 # Reading Files
 include:
